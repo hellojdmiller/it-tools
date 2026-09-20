@@ -305,6 +305,10 @@ tools:
     title: IPv4 subnet calculator
     description: Parse your IPv4 CIDR blocks and get all the info you need about your subnet.
 
+  network-overlap-checker:
+    title: Network overlap checker
+    description: Compare IPv4 and IPv6 subnets. Find duplicate and overlapping address ranges before connecting networks.
+
   og-meta-generator:
     title: Open graph meta generator
     description: Generate open-graph and socials HTML meta tags for your website.
